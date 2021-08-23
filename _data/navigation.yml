@@ -1,9 +1,9 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Awards and Scholarships"
+  - title: "Awards"
     url: /awards-scholarships/
   - title: "About"
     url: /about/
-  - title: "Good Reads"
+  - title: "Readings"
     url: /reads/

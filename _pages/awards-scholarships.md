@@ -1,6 +1,6 @@
 ---
 permalink: /awards-scholarships/
-title: "Awards and Scholarships"
+title: "Awards"
 ---
 
 **Concordia University Doctoral Graduate Fellowship** <span style="float:right;"> 2021 </span> 
