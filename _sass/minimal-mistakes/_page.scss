@@ -91,6 +91,7 @@ body {
 	h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
+      text-decoration: inherit;
 			left: 0.5em;
 			opacity: 0;
 			font-size: 0.8em;
